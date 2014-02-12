@@ -1,0 +1,14 @@
+Uncaught java.lang.Error exception in thread "main" in a method jav.main() with signature ([Ljava/lang/String;)V
+Exception in thread "main" java.lang.Error: Unresolved compilation problems: 
+	num1 cannot be resolved to a variable
+	num2 cannot be resolved to a variable
+	num1 cannot be resolved to a variable
+	num2 cannot be resolved to a variable
+	num1 cannot be resolved to a variable
+	num2 cannot be resolved to a variable
+	num1 cannot be resolved to a variable
+	num2 cannot be resolved to a variable
+	Syntax error, insert ";" to complete Statement
+	Syntax error, insert "}" to complete ClassBody
+
+	at jav.main(jav.java:11) [file:/home/alumno/workspace/Eduard/Eduard_Hernandez/bin/jav.class]
